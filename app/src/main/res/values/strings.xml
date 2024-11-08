@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Base64</string>
+    <string name="app_description">Tools for Encode n Decode Base64</string>
+</resources>
