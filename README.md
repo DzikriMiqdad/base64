@@ -6,10 +6,10 @@ _**Cryptography** is the process of hiding or coding information so that only th
 
 
 ## **Features**
-<p dir="auto"><strong>Text Input for Encoding: </strong>Users can input any text to be converted to Base64.<br>
-<strong>Text Input for Decoding: </strong>Users can also input strings in Base64 format to be converted back to plain text format<br>
-<strong>Encoding and Decoding Result Output: </strong>The results of the encoding and decoding process are displayed directly on the screen.<br>
-<strong>Copy to Clipboard Function:</strong>Users can copy the encoding or decoding results easily using the dialog that appears.
+- <p dir="auto"><strong>Text Input for Encoding: </strong>Users can input any text to be converted to Base64.
+- <strong>Text Input for Decoding: </strong>Users can also input strings in Base64 format to be converted back to plain text format<br>
+- <strong>Encoding and Decoding Result Output: </strong>The results of the encoding and decoding process are displayed directly on the screen.<br>
+- <strong>Copy to Clipboard Function:</strong>Users can copy the encoding or decoding results easily using the dialog that appears.
 <p>
 Here is a storyboard that illustrates the workflow of this application:
 
