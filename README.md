@@ -1,51 +1,32 @@
 # **Base64 Encode/Decode App**
 
-Aplikasi ini memungkinkan pengguna untuk melakukan encode dan decode string menggunakan algoritma Base64. Aplikasi ini dikembangkan dengan Android Studio dan menyediakan antarmuka pengguna yang intuitif.
+This application allows users to encode and decode strings using the Base64 algorithm. This application can also be called a Cryptography application.<br>
+_**Cryptography** is the process of hiding or coding information so that only the person a message was intended for can read it._
 
-Berikut adalah storyboard yang menggambarkan alur kerja dari aplikasi ini:
+Here is a storyboard that illustrates the workflow of this application:
 
-![storyboard](https://github.com/user-attachments/assets/a896d399-0e57-45c5-8db0-4ed1960bd4ff)
+![384696732-7b74e7f1-4527-4019-bfb1-93841a894274](https://github.com/user-attachments/assets/26ec5751-3c6c-4cb6-a69e-27442b15b1be)
 
-Pada halaman utama, pengguna dapat memasukkan teks yang ingin diencode atau didecode.
-
-![image](https://github.com/user-attachments/assets/c5e288ed-6ae1-43d3-9be5-860599f9b132)
-
-Watermark: Hak Cipta _Dzikri Miqdad Alhamdani_
-
-Halaman Hasil Encode
-Setelah pengguna memasukkan teks dan memilih encode ataupun decode, hasil encode/decode akan ditampilkan disini.
-
-![image](https://github.com/user-attachments/assets/f392d8a2-0add-428b-b0b0-1d251aaac286)
-
-Watermark: Hak Cipta _Dzikri Miqdad Alhamdani_
-
-
-Berikut adalah beberapa mockup dan UI yang telah dibuat untuk aplikasi ini:
 
 # **Mockup Project**
-![image](https://github.com/user-attachments/assets/2a82c884-98ec-48c2-a129-30e942b9bd40)
+![384698523-9ea2d6e1-d5ba-4646-b7ea-b441540e791e](https://github.com/user-attachments/assets/1677f34a-532f-49ae-b735-0ec09678fddf)
+
 
 # **UI Project**
 
-![image](https://github.com/user-attachments/assets/560d172c-31a8-4251-ba1e-6133cef8f4d4)
+![image](https://github.com/user-attachments/assets/fb0bb15f-e7e3-4afc-a0bb-0123c2ef7203)
 
-## Installation
+## Screenshots
 
-Cara menggunakan
-
-```bash
-  Clone repository ini ke lokal Anda
-```
-
-```bash
-  Buka proyek di Android Studio
-  Jalankan aplikasi di emulator atau perangkat Android Anda
-
-  Masukkan teks yang ingin diencode atau didecode di halaman utama
-  Tekan tombol encode atau decode untuk melihat hasilnya
-```
+![unnamed](https://github.com/user-attachments/assets/60bdb263-eb7d-4810-a8a0-166a4adf0ea8) ![unnamed (1)](https://github.com/user-attachments/assets/7b2e41ce-85c0-46f4-87e0-9adc380c722c)
 
 
-## Authors
+## Conclusion
 
-- [@DzikriMiqdad](https://www.github.com/DzikriMiqdad)
+The Base64 Encoder/Decoder application that has been created aims to make it easier for users to convert plain text into Base64 format and vice versa. This application has a simple and intuitive user interface, allowing users to quickly perform encoding and decoding without any difficulty.
+
+<hr>
+<p dir="auto"><strong>Author</strong>: Dzikri Miqdad Alhamdani | NIM 312319251<br>
+<strong>Course</strong>: Mobile Programming 1 - Android<br>
+<strong>Instructor</strong>: Pak Donny Maulana, S.Kom., M.M.S.I.<br>
+<strong>Institution</strong>: Universitas Pelita Bangsa</p>
