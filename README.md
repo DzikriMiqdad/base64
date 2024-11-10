@@ -3,6 +3,14 @@
 This application allows users to encode and decode strings using the Base64 algorithm. This application can also be called a Cryptography application.<br>
 _**Cryptography** is the process of hiding or coding information so that only the person a message was intended for can read it._
 
+
+
+## **Features**
+<p dir="auto"><strong>Text Input for Encoding: </strong>Users can input any text to be converted to Base64.<br>
+<strong>Text Input for Decoding: </strong>Users can also input strings in Base64 format to be converted back to plain text format<br>
+<strong>Encoding and Decoding Result Output: </strong>The results of the encoding and decoding process are displayed directly on the screen.<br>
+<strong>Copy to Clipboard Function:</strong>Users can copy the encoding or decoding results easily using the dialog that appears.
+<p>
 Here is a storyboard that illustrates the workflow of this application:
 
 ![384696732-7b74e7f1-4527-4019-bfb1-93841a894274](https://github.com/user-attachments/assets/26ec5751-3c6c-4cb6-a69e-27442b15b1be)
