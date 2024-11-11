@@ -13,11 +13,11 @@ _**Cryptography** is the process of hiding or coding information so that only th
 ![384696732-7b74e7f1-4527-4019-bfb1-93841a894274](https://github.com/user-attachments/assets/26ec5751-3c6c-4cb6-a69e-27442b15b1be)
 
 
-# **Mockup Project**
+## **Mockup Project**
 ![384698523-9ea2d6e1-d5ba-4646-b7ea-b441540e791e](https://github.com/user-attachments/assets/1677f34a-532f-49ae-b735-0ec09678fddf)
 
 
-# **UI Project**
+## **UI Project**
 
 ![image](https://github.com/user-attachments/assets/fb0bb15f-e7e3-4afc-a0bb-0123c2ef7203)
 
