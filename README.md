@@ -34,4 +34,9 @@ The Base64 Encoder/Decoder application that has been created aims to make it eas
 <p dir="auto"><strong>Author</strong>: Dzikri Miqdad Alhamdani | NIM 312310251<br>
 <strong>Course</strong>: Mobile Programming 1 - Android<br>
 <strong>Instructor</strong>: Mr. Donny Maulana, S.Kom., M.M.S.I.<br>
-<strong>Institution</strong>: Universitas Pelita Bangsa</p>
+<strong>Institution</strong>: Universitas Pelita Bangsa</p><hr>
+
+## Feedback
+If you have any feedback, please reach out to us at me@remonn.org
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2Fbase64%2F&label=Visitors&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDzikriMiqdad%2Fbase64%2F)
